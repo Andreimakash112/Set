@@ -1,6 +1,10 @@
-.Main{
-    width: 100%;
-    min-height:calc(100vh - 80px -80pdx ) ;
-    background-color: #af7864;
+.Name{
+    width:100%;
+    min-height:calc(100vh - 80px - 80px) ;
+    background-color: hwb(16 39% 31%);
     padding: 60px;
+}
+.Name p {
+    width: 80%;
+    height: auto;
 }

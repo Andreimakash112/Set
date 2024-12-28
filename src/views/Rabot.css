@@ -1,11 +1,7 @@
-.Main{
+.Rabot{
     width: 100%;
     min-height:calc(100vh - 80px - 80pdx ) ;
     background-color: #af7864;
     padding: 60px;
     /*justify-content: center;*/
-}
-.Main p {
-    width: 80%;
-    height: auto;
 }
