@@ -1,0 +1,6 @@
+.Main{
+    width: 100%;
+    min-height:calc(100vh - 80px -80pdx ) ;
+    background-color: #af7864;
+    padding: 60px;
+}
