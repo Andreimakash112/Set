@@ -1,0 +1,26 @@
+.Header{
+    width: 100%;
+    height: 50px;
+    background-color: #af7864;
+}
+
+.Header ul{
+width:calc(100vh - 400px);
+display:flex;
+justify-content: flex-end;
+ 
+}
+.Header li{
+    width:140px;
+    height:100%;
+    line-height: 5px;
+    list-style: none;
+    cursor: pointer;
+    border-radius: 5px;
+     
+    }
+
+    .Header li:hover{
+       background-color: #0000ff;
+         
+        }
